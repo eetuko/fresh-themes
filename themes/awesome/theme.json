@@ -25,6 +25,7 @@
         "src/latex/examples/resume/presentation.tex",
         "src/latex/examples/resume/summary.tex",
         "src/latex/examples/resume/writing.tex",
+        "src/latex/examples/cv/summary.tex",
         "src/latex/examples/cv/committees.tex",
         "src/latex/examples/cv/education.tex",
         "src/latex/examples/cv/experience.tex",
